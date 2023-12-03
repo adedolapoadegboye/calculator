@@ -1,4 +1,4 @@
-# calculator
+# Calculator
 Simple Calculator App built with React hooks and styled with tailwindCSS
 
 # Getting Started with Create React App
